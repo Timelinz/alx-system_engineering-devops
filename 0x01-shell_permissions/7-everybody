@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 555 hello
+chgrp 755 hello
