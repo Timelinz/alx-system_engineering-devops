@@ -1,2 +1,2 @@
 #!/bin/bash
- "$((2#$BIINARY))" 
+echo  "$((2#$BIINARY))" 
